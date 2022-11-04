@@ -2,7 +2,7 @@
 - 👀 I’m interested in basketball
 - 🌱 I’m currently learning web design full stack
 - 💞️ I’m looking to collaborate on paul
-- 📫 How to reach me call me maybe.
+- 📫 How to reach me, call me maybe.
 
 <!---
 RogerBaenaMiret/RogerBaenaMiret is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
