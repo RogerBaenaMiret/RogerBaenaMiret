@@ -1,6 +1,0 @@
-hola buenos dias
-<<<<<<< HEAD
-fasfas
-=======
-vasmos a ver no me toques los hevos
->>>>>>> master
